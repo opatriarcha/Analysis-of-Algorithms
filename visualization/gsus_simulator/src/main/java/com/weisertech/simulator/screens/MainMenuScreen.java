@@ -134,7 +134,7 @@ public final class MainMenuScreen extends Screen {
         outerContainer.add(optionsContainer);
         outerContainer.add(Box.createRigidArea(new Dimension(5,0)));
         outerContainer.add(sortAlgorithmContainer);
-        outerContainer.add(nContainer);
+        //outerContainer.add(nContainer);
 
         int gap = 15;
         add(Box.createRigidArea(new Dimension(0, gap)));
